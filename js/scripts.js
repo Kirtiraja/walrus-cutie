@@ -5,8 +5,11 @@ $(document).ready(function() {
   });
 
   $("button#green").click(function() {
-    $("body").removeClass();
+    // $("body").removeClass();
     $("body").addClass("whiteOnBlack");
   });
 
+  $("button#red").click(function() {
+    $("body").removeClass();
+  });
 });
