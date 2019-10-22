@@ -9,3 +9,8 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.whiteOnBlack {
+  background-color: black;
+  color: white;
+}
