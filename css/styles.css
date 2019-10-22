@@ -14,3 +14,14 @@
   background-color: black;
   color: white;
 }
+
+.well {
+  background-color: royalblue;
+}
+
+.highlight {
+  background-color: #ffffcc;
+  border: 2.5px black solid;
+  cursor: pointer;
+  color: black;
+}

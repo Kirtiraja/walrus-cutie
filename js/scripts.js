@@ -12,4 +12,10 @@ $(document).ready(function() {
   $("button#red").click(function() {
     $("body").removeClass();
   });
+
+  $("p#run").click(function() {
+    $("p#run").addClass("highlight");
+  });
+
+
 });
